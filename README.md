@@ -1,6 +1,8 @@
 # capacitor-plugin-pay
 [ios/android] wechat pay &amp; alipay
 
+[demo](https://github.com/veluxa/capacitor-plugin-pay-demo) (如需正常支付需修改支付参数，参考下方)
+
 [android]
 修改 android/build.gradle 文件中 wxPayPackageName 的值为你app在微信支付上登记的appid，ios 无需此操作
 
